@@ -12,6 +12,7 @@ fusefs = "*"
 ipython = "*"
 ipdb = "*"
 black = "*"
+twine = "*"
 
 [requires]
 python_version = "3.9"
