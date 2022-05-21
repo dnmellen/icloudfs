@@ -1,3 +1,5 @@
+![PyPI](https://img.shields.io/pypi/v/fs-icloud)
+
 # icloudfs
 iCloud file system implementation using pyfilesystem2
 
